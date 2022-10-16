@@ -1,0 +1,7 @@
+ApiClient.class
+pageobjects\MainPage.class
+pageobjects\UserRegistrationPage.class
+pageobjects\ForgotPasswordPage.class
+pageobjects\UserLoginPage.class
+pageobjects\Header.class
+pageobjects\UserAccountPage.class
